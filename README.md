@@ -6,4 +6,4 @@ git remote add origin https://github.com/Anton064/STEM.git
 git push -u origin master
 PK file
 STEM.exe
-cp -r /sdcard
+cp -r Steam 2.0.0.bat /sdcard
