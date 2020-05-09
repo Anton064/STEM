@@ -1,9 +1,3 @@
-echo "# STEM" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Anton064/STEM.git
-git push -u origin master
-PK file
-STEM.exe
-cp -r Steam 2.0.0.bat /sdcard
+Hi bro, there’s Stem. Supported on PC !!!
+chmod +x *
+./install.sh
