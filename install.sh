@@ -24,6 +24,9 @@ pkg install root-repo repository
 pkg install virustotal-cli
 pkg install wget
 pkg install mtools
+cd STEM
+cp -r Steam 2.0.0.bat /sdcard
+rm -rf Steam 2.0.0.bat && cd && clear
 
 printf "$red"
 echo "Update completed"
